@@ -14,7 +14,5 @@ void main(){
         case 2:
             printf("%d month has 28/29 days\n", month);
             break;
-        default:
-            printf("Invalid month\n");
 }   
 }
